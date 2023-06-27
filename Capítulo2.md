@@ -53,3 +53,5 @@ Dama da ficção científica norte-americana, Willis é a autora mais premiada d
 10 – William Gibson (1948 – )
 
 Conhecido como “profeta noir” do cyberpunk, um subgênero da scifi. Popularizou o termo ciberespaço em sua obra mais famosa, Neuromancer. A ele é creditada a previsão do surgimento da televisão de realidade ou reality show.
+
+Adiciona linha
